@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+呜呜呜我有罪
+我不该写shit代码
+现在我发现公司代码更shit
