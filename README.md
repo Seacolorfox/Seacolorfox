@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 呜呜呜我有罪
 我不该写shit代码
+
+![Seacolorfox](https://count.getloli.com/get/@Seacolorfox?theme=rule34)
