@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-呜呜呜我有罪
-我不该写shit代码
+代码铲屎官
 
 ![Seacolorfox](https://count.getloli.com/get/@Seacolorfox?theme=rule34)
