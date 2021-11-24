@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 代码铲屎官
 
+才没有咕咕咕！一直有在用私有库的说！
+
 ![Seacolorfox](https://count.getloli.com/get/@Seacolorfox?theme=rule34)
