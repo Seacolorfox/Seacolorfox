@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 才没有咕咕咕！一直有在用私有库的说！
 
 ![Seacolorfox](https://count.getloli.com/get/@Seacolorfox?theme=rule34)
+
+![Metrics](https://metrics.lecoq.io/Seacolorfox?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&skyline=1&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&config.timezone=Asia%2FHong_Kong)
